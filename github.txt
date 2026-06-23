@@ -7,7 +7,9 @@ git config user.email "bkc.vns@gmail.com"
 git remote add origin https://github.com/bkc27/day11b.git
 
 git config --list
-
 git add .
 
 git status
+git commit -m "First File added"
+git branch -M main
+git push -u origin main
