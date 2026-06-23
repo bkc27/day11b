@@ -8,3 +8,6 @@ git remote add origin https://github.com/bkc27/day11b.git
 
 git config --list
 
+git add .
+
+git status
