@@ -13,15 +13,3 @@ git status
 git commit -m "First File added"
 git branch -M main
 git push -u origin main
-
-after first successfull push,.,
-
-git add .
-git status
-git commit -m "New message"
-git push 
-
-git log
-git log --oneline
-
-git show commit_id
