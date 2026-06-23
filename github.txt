@@ -1,0 +1,10 @@
+git init
+git status
+
+git config user.name "Brijesh"
+git config user.email "bkc.vns@gmail.com"
+
+git remote add origin https://github.com/bkc27/day11b.git
+
+git config --list
+
